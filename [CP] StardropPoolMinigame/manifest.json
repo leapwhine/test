@@ -1,0 +1,12 @@
+{
+  "Name": "StardropPoolMinigame",
+  "Author": "andyruwruw",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "andyruwruw.StardropPoolMinigameCP",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": [ ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
